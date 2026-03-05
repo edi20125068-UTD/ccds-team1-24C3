@@ -8,7 +8,40 @@ Najwa Annisa (20124093)	: Software Engineer
 
 ## Project Structure
 Menggunakan standar Cookiecutter Data Science.
+ccds-team1-24C3/
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── external/
+│
+├── notebooks/
+│
+├── src/
+│   ├── data/
+│   ├── features/
+│   ├── models/
+│   └── visualization/
+│
+├── models/
+│
+├── reports/
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ## Workflow
-Branch → Pull Request → Merge
-Commit menggunakan Gitmoji.
+Create Branch
+      ↓
+Add Code
+      ↓
+Commit (Gitmoji)
+      ↓
+Push Branch
+      ↓
+Pull Request
+      ↓
+Review
+      ↓
+Merge ke main
