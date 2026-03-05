@@ -3,21 +3,16 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
 # Virtual Environment
 env/
 venv/
-
 # Jupyter Notebook
 .ipynb_checkpoints
-
 # Environment variables
 .env
-
 # Data besar (biasanya tidak diupload)
 data/raw/*.csv
 data/raw/*.xlsx
-
 # OS files
 .DS_Store
 Thumbs.db
