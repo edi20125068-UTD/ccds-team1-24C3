@@ -44,7 +44,8 @@ Pull Request
       ↓
 Review
       ↓
-Merge ke main
+Merge ke main.
+
 Untuk gitmoji yang digunakan :
 - 📚 📚 update
 - 🔧 🔧 add
